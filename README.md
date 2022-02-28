@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItsJustSamuels
-- 👀 I’m interested in languages ​​like JS(JavaScript), PY(Python), TS(TypeScript) and others which I am still learning!
+- 👀 I’m interested in languages ​​like JavaScript (JS), Python (PY), TypeScript (TS) and others which I am still learning!
 - 🌱 I’m currently learning Software Developer
 - 💞️ I’m looking to collaborate on Xan Developers (Main Owner)
 - 📫 How to contact me you can use the direct links I provide here on my github profile or you can go to [Xan Developers](https://discord.gg/64afGhdunT)  
